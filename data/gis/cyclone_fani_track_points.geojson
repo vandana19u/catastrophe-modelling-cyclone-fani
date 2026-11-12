@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"name": "cyclone_fani_track_points",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "iso_time": "2019-05-02 00:00:00", "stage": "Offshore Cat 4/5 Peak", "pressure_hpa": 932, "wind_speed_kt": 135, "wind_speed_kmh": 250.0, "rmax_km": 28.0 }, "geometry": { "type": "Point", "coordinates": [ 84.7, 16.0 ] } },
+{ "type": "Feature", "properties": { "iso_time": "2019-05-02 06:00:00", "stage": "Approaching Andhra/Odisha", "pressure_hpa": 935, "wind_speed_kt": 130, "wind_speed_kmh": 240.8, "rmax_km": 28.0 }, "geometry": { "type": "Point", "coordinates": [ 84.8, 16.7 ] } },
+{ "type": "Feature", "properties": { "iso_time": "2019-05-02 12:00:00", "stage": "Parallel to Ganjam Coast", "pressure_hpa": 935, "wind_speed_kt": 125, "wind_speed_kmh": 231.5, "rmax_km": 30.0 }, "geometry": { "type": "Point", "coordinates": [ 84.9, 17.5 ] } },
+{ "type": "Feature", "properties": { "iso_time": "2019-05-02 18:00:00", "stage": "Offshore Chilika", "pressure_hpa": 936, "wind_speed_kt": 120, "wind_speed_kmh": 222.2, "rmax_km": 30.0 }, "geometry": { "type": "Point", "coordinates": [ 85.2, 18.5 ] } },
+{ "type": "Feature", "properties": { "iso_time": "2019-05-03 00:00:00", "stage": "Pre-Landfall Eye Wall Near Puri", "pressure_hpa": 937, "wind_speed_kt": 115, "wind_speed_kmh": 213.0, "rmax_km": 32.0 }, "geometry": { "type": "Point", "coordinates": [ 85.5, 19.3 ] } },
+{ "type": "Feature", "properties": { "iso_time": "2019-05-03 03:30:00", "stage": "LANDFALL AT PURI", "pressure_hpa": 938, "wind_speed_kt": 115, "wind_speed_kmh": 213.0, "rmax_km": 32.0 }, "geometry": { "type": "Point", "coordinates": [ 85.82, 19.8 ] } },
+{ "type": "Feature", "properties": { "iso_time": "2019-05-03 06:00:00", "stage": "Over Bhubaneswar / Khordha", "pressure_hpa": 955, "wind_speed_kt": 95, "wind_speed_kmh": 175.9, "rmax_km": 36.0 }, "geometry": { "type": "Point", "coordinates": [ 85.83, 20.25 ] } },
+{ "type": "Feature", "properties": { "iso_time": "2019-05-03 09:00:00", "stage": "Over Cuttack", "pressure_hpa": 968, "wind_speed_kt": 80, "wind_speed_kmh": 148.2, "rmax_km": 40.0 }, "geometry": { "type": "Point", "coordinates": [ 85.95, 20.5 ] } },
+{ "type": "Feature", "properties": { "iso_time": "2019-05-03 12:00:00", "stage": "Weakening Over Jajpur/Bhadrak", "pressure_hpa": 980, "wind_speed_kt": 65, "wind_speed_kmh": 120.4, "rmax_km": 45.0 }, "geometry": { "type": "Point", "coordinates": [ 86.3, 20.85 ] } },
+{ "type": "Feature", "properties": { "iso_time": "2019-05-03 15:00:00", "stage": "Over Balasore", "pressure_hpa": 988, "wind_speed_kt": 55, "wind_speed_kmh": 101.9, "rmax_km": 50.0 }, "geometry": { "type": "Point", "coordinates": [ 86.7, 21.2 ] } },
+{ "type": "Feature", "properties": { "iso_time": "2019-05-03 18:00:00", "stage": "Entering West Bengal Border", "pressure_hpa": 993, "wind_speed_kt": 45, "wind_speed_kmh": 83.3, "rmax_km": 55.0 }, "geometry": { "type": "Point", "coordinates": [ 87.2, 21.6 ] } },
+{ "type": "Feature", "properties": { "iso_time": "2019-05-04 00:00:00", "stage": "Dissipating Over Gangetic Delta", "pressure_hpa": 998, "wind_speed_kt": 35, "wind_speed_kmh": 64.8, "rmax_km": 60.0 }, "geometry": { "type": "Point", "coordinates": [ 88.1, 22.5 ] } }
+]
+}

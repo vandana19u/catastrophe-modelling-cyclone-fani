@@ -1,0 +1,5 @@
+experiment,deductible_rate_pct,total_gul_crores,gross_insured_loss_crores,retained_by_policyholder_crores,insurer_share_pct,policyholder_share_pct
+Deductible Sensitivity,0%,968.62,867.98,100.64,89.61,10.39
+Deductible Sensitivity,2%,968.62,799.25,169.36,82.52,17.48
+Deductible Sensitivity,5%,968.62,711.56,257.06,73.46,26.54
+Deductible Sensitivity,10%,968.62,597.41,371.2,61.68,38.32

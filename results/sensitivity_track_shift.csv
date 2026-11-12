@@ -1,0 +1,6 @@
+experiment,parameter_value,scenario_label,mean_portfolio_mdr,ground_up_loss_inr,ground_up_loss_crores,gross_insured_loss_crores,loss_cost_pct,delta_loss_pct
+Track Displacement,-50,50 km West,0.0525,4818611625.97,481.86,356.47,4.34,-50.25
+Track Displacement,-25,25 km West,0.0846,7998141882.98,799.81,603.61,7.21,-17.43
+Track Displacement,0,0 km Baseline (Puri),0.097,9686158139.5,968.62,728.48,8.73,0.0
+Track Displacement,25,25 km East,0.0983,10017495007.48,1001.75,749.81,9.03,3.42
+Track Displacement,50,50 km East,0.078,8103940466.0,810.39,599.97,7.3,-16.33

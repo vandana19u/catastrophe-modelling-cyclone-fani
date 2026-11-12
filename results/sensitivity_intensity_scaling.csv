@@ -1,0 +1,6 @@
+experiment,parameter_value,scenario_label,mean_wind_speed_kmh,mean_portfolio_mdr,ground_up_loss_crores,gross_insured_loss_crores,loss_cost_pct,ground_up_loss_inr,delta_loss_pct
+Intensity Scaling,0.9,-10%,134.6,0.0737,736.47,545.78,6.64,7364747293.15,-23.97
+Intensity Scaling,0.95,-5%,138.1,0.085,850.35,634.7,7.66,8503477104.93,-12.21
+Intensity Scaling,1.0,Baseline (1.0x),141.6,0.097,968.62,728.48,8.73,9686158139.5,0.0
+Intensity Scaling,1.05,+5%,145.0,0.1094,1098.45,833.5,9.9,10984512414.65,13.4
+Intensity Scaling,1.1,+10%,148.4,0.1223,1234.38,945.57,11.13,12343817563.85,27.44

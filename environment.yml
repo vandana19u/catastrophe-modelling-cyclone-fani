@@ -1,0 +1,21 @@
+name: catmodel_climada
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy>=1.24
+  - scipy>=1.10
+  - pandas>=2.0
+  - geopandas>=0.14
+  - shapely>=2.0
+  - pyproj>=3.6
+  - pyogrio>=0.7
+  - matplotlib>=3.7
+  - openpyxl>=3.1
+  - geopy>=2.4
+  - jupyter
+  - ipykernel
+  - pip
+  - pip:
+    - climada>=4.0.0

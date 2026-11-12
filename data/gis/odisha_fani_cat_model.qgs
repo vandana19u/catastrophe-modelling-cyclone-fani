@@ -1,0 +1,45 @@
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis projectname="Cyclone Fani Catastrophe Risk Model - Odisha" version="3.28.0">
+  <title>Cyclone Fani (2019) Coastal Odisha Portfolio Impact</title>
+  <layer-tree-group>
+    <customproperties/>
+    <layer-tree-layer id="fani_track_pts" name="Cyclone Fani Track Points (IBTrACS)" source="./cyclone_fani_track_points.geojson" provider="ogr" expanded="1" checked="Qt::Checked"/>
+    <layer-tree-layer id="fani_track_path" name="Cyclone Fani Track Path" source="./cyclone_fani_track_path.geojson" provider="ogr" expanded="1" checked="Qt::Checked"/>
+    <layer-tree-layer id="exposure_loss" name="Odisha Exposure Assets &amp; Losses" source="./odisha_exposure_loss.geojson" provider="ogr" expanded="1" checked="Qt::Checked"/>
+    <layer-tree-layer id="district_summary" name="District Loss Choropleth" source="./district_loss_summary.geojson" provider="ogr" expanded="1" checked="Qt::Checked"/>
+  </layer-tree-group>
+  <projectLayers>
+    <maplayer id="fani_track_pts" type="vector">
+      <id>fani_track_pts</id>
+      <datasource>./cyclone_fani_track_points.geojson</datasource>
+      <layername>Cyclone Fani Track Points (IBTrACS)</layername>
+      <srs>
+        <spatialrefsys><authid>EPSG:4326</authid></spatialrefsys>
+      </srs>
+    </maplayer>
+    <maplayer id="fani_track_path" type="vector">
+      <id>fani_track_path</id>
+      <datasource>./cyclone_fani_track_path.geojson</datasource>
+      <layername>Cyclone Fani Track Path</layername>
+      <srs>
+        <spatialrefsys><authid>EPSG:4326</authid></spatialrefsys>
+      </srs>
+    </maplayer>
+    <maplayer id="exposure_loss" type="vector">
+      <id>exposure_loss</id>
+      <datasource>./odisha_exposure_loss.geojson</datasource>
+      <layername>Odisha Exposure Assets &amp; Losses</layername>
+      <srs>
+        <spatialrefsys><authid>EPSG:4326</authid></spatialrefsys>
+      </srs>
+    </maplayer>
+    <maplayer id="district_summary" type="vector">
+      <id>district_summary</id>
+      <datasource>./district_loss_summary.geojson</datasource>
+      <layername>District Loss Choropleth</layername>
+      <srs>
+        <spatialrefsys><authid>EPSG:4326</authid></spatialrefsys>
+      </srs>
+    </maplayer>
+  </projectLayers>
+</qgis>

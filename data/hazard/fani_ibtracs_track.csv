@@ -1,0 +1,13 @@
+iso_time,lat,lon,pres_hpa,wspd_kt,rmax_km,stage
+2019-05-02 00:00:00,16.0,84.7,932,135,28.0,Offshore Cat 4/5 Peak
+2019-05-02 06:00:00,16.7,84.8,935,130,28.0,Approaching Andhra/Odisha
+2019-05-02 12:00:00,17.5,84.9,935,125,30.0,Parallel to Ganjam Coast
+2019-05-02 18:00:00,18.5,85.2,936,120,30.0,Offshore Chilika
+2019-05-03 00:00:00,19.3,85.5,937,115,32.0,Pre-Landfall Eye Wall Near Puri
+2019-05-03 03:30:00,19.8,85.82,938,115,32.0,LANDFALL AT PURI
+2019-05-03 06:00:00,20.25,85.83,955,95,36.0,Over Bhubaneswar / Khordha
+2019-05-03 09:00:00,20.5,85.95,968,80,40.0,Over Cuttack
+2019-05-03 12:00:00,20.85,86.3,980,65,45.0,Weakening Over Jajpur/Bhadrak
+2019-05-03 15:00:00,21.2,86.7,988,55,50.0,Over Balasore
+2019-05-03 18:00:00,21.6,87.2,993,45,55.0,Entering West Bengal Border
+2019-05-04 00:00:00,22.5,88.1,998,35,60.0,Dissipating Over Gangetic Delta
